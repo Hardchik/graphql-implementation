@@ -4,6 +4,7 @@ Flask server implementing GraphQL
 <br />
 Directory Structure
 <br />
+```
 flask_graphql/
 ├── app/
 │ ├── **init**.py
@@ -22,3 +23,4 @@ flask_graphql/
 │ └── config.py
 ├── run.py
 └── requirements.txt
+```
