@@ -1,3 +1,4 @@
 Flask
 Flask-GraphQL
 graphene
+prometheus-client
